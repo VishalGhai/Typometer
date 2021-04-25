@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Typometer/static/css/main.d864b761.chunk.css",
+    "main.js": "/Typometer/static/js/main.67d1a9de.chunk.js",
+    "main.js.map": "/Typometer/static/js/main.67d1a9de.chunk.js.map",
+    "runtime-main.js": "/Typometer/static/js/runtime-main.0ce3a8ff.js",
+    "runtime-main.js.map": "/Typometer/static/js/runtime-main.0ce3a8ff.js.map",
+    "static/js/2.ff2b895c.chunk.js": "/Typometer/static/js/2.ff2b895c.chunk.js",
+    "static/js/2.ff2b895c.chunk.js.map": "/Typometer/static/js/2.ff2b895c.chunk.js.map",
+    "index.html": "/Typometer/index.html",
+    "static/css/main.d864b761.chunk.css.map": "/Typometer/static/css/main.d864b761.chunk.css.map",
+    "static/js/2.ff2b895c.chunk.js.LICENSE.txt": "/Typometer/static/js/2.ff2b895c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ce3a8ff.js",
+    "static/js/2.ff2b895c.chunk.js",
+    "static/css/main.d864b761.chunk.css",
+    "static/js/main.67d1a9de.chunk.js"
+  ]
+}
